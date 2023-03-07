@@ -13,7 +13,7 @@
 
 <h3>😈 About Me 😈</h3>
 
-- Have experience in app development using flutter and dart.
+- Experienced in app development using flutter and dart.
 - Currently working on learning and implementing web technologies.
 - I strongly believe in efficient and quality code writing due to mass implemention and digital footprint.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshit1903&label=Profile%20views&color=0e75b6&style=flat" alt="akshit1903" /> </p>
