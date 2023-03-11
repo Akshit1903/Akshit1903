@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38">
 </p>
 
-<h3>😈 About Me 😈</h3>
+<h3>About Me</h3>
 
 - Have experience in app development using flutter and dart.
 - Currently working on learning and implementing web technologies.
