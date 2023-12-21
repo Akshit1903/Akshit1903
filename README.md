@@ -36,6 +36,7 @@
 | [MergerMan](https://github.com/Akshit1903/MergerMan)                | [🔗Link](https://merger-man.vercel.app/)                                          | [📽️YouTube](https://youtu.be/A-LjRjullyg)            |
 | [Taggy](https://github.com/Akshit1903/Taggy)                        | [📦.exe](https://github.com/Akshit1903/TaggyDeployment)                           | [📽️YouTube](https://youtu.be/maRVWniys08)            |
 | [MobiByte](https://github.com/Akshit1903/MobiByte)                  | [📦.apk](https://github.com/Akshit1903/MobiByte/raw/main/app-release.apk)         | [📽️YouTube](https://youtu.be/Vq0BWUgAImA)            |
+| [YouTube Clone](https://github.com/Akshit1903/YouTube-Clone)        | [🔗Link](https://you-tube-clone-chi-five.vercel.app/)                             | [📽️YouTube](https://youtu.be/VFBKVh392NE)            |
 | [FoodVilla](https://github.com/Akshit1903/FoodVilla)                | [🔗Link](https://food-villa-seven.vercel.app/)                                    | [📽️YouTube](https://youtu.be/u2ARjpuiyTU)            |
 | [Daily-Journal](https://github.com/Akshit1903/Daily-Journal)        | [🔗Link](https://daily-journal-kohl.vercel.app/)                                  | [📽️YouTube](https://youtu.be/LCoxbKZOM54)            |
 | [TicTacToe](https://github.com/Akshit1903/TicTacToe)                | [🔗Link](https://akshit1903.github.io/TicTacToe/)                                 | [📽️YouTube](https://youtu.be/5LpbJYqvHrg)            |
